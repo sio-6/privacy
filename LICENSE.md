@@ -1,7 +1,7 @@
 
-			 The "Artistic License"
+The "Artistic License"
 
-				Preamble
+Preamble
 
 The intent of this document is to state the conditions under which a
 Package may be copied, such that the Copyright Holder maintains some
@@ -125,4 +125,4 @@ products derived from this software without specific prior written permission.
 IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
 WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 
-				The End
+The End
